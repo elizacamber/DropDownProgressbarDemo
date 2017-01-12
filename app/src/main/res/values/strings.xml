@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DropDownProgressbarDemo</string>
+
+    <string-array name="ages_array">
+        <item>18&#8211;24</item>
+        <item>25&#8211;45</item>
+        <item>45+</item>
+    </string-array>
+</resources>
